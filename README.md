@@ -1,3 +1,6 @@
 #About this project
 
-GPS Receiver
+##GPS Receiver
+
+1, generate CA code
+
